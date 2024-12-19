@@ -2,6 +2,8 @@ Demo : https://drive.google.com/file/d/1EeabRSjkqCueiLQR1-WRpnLAj5q7fHwg/view?us
 
 Deployed :  https://suraj-0401.github.io/CodeAnt-Assignment/
 
+👆click on http://localhost:3000/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
